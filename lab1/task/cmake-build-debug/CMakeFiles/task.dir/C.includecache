@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/study/politech/2kurs/cm/labs/lab1/task/main.c
+stdio.h
+-
+math.h
+-
+methods.h
+/Users/mac/study/politech/2kurs/cm/labs/lab1/task/methods.h
+
+/Users/mac/study/politech/2kurs/cm/labs/lab1/task/methods.h
+stdio.h
+-
+math.h
+-
+
