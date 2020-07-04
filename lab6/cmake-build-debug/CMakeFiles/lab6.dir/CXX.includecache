@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/study/politech/2kurs/cm/labs/lab6/functions.cpp
+functions.h
+/Users/mac/study/politech/2kurs/cm/labs/lab6/functions.h
+
+/Users/mac/study/politech/2kurs/cm/labs/lab6/functions.h
+iostream
+-
+iomanip
+-
+cmath
+-
+
